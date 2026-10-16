@@ -1,6 +1,6 @@
-ID,title,author_ID,createdAt,createdBy,modifiedAt,modifiedBy
-26604964-fde2-418d-9f55-9fd61be935c5,title-26604964,24698006-4de0-432b-ae09-b613881a2d68,2023-01-11T00:00:00.000Z,createdBy.fu8is@example.com,2012-06-11T00:00:00.000Z,modifiedBy.fu8is@example.com
-26604965-bcf1-443b-8d0f-740cb67c2a86,title-26604965,24698006-4de0-432b-ae09-b613881a2d68,2010-07-09T00:00:00.000Z,createdBy.fu8it@example.com,2006-08-05T00:00:00.000Z,modifiedBy.fu8it@example.org
-26604966-90b1-410a-94b1-9d34f0e3c196,title-26604966,24698006-4de0-432b-ae09-b613881a2d68,2004-01-09T00:00:00.000Z,createdBy.fu8iu@example.com,2008-05-03T00:00:00.000Z,modifiedBy.fu8iu@example.net
-26604967-2162-4756-a44a-6eb4b6975006,title-26604967,24698006-4de0-432b-ae09-b613881a2d68,2021-06-06T00:00:00.000Z,createdBy.fu8iv@example.org,2000-09-09T00:00:00.000Z,modifiedBy.fu8iv@example.com
-26604968-c3d7-4dda-9295-85341789d3fd,title-26604968,24698006-4de0-432b-ae09-b613881a2d68,2009-07-13T00:00:00.000Z,createdBy.fu8iw@example.net,2010-03-03T00:00:00.000Z,modifiedBy.fu8iw@example.org
+ID,title,author_ID,genre,publishedAt,pages,price,createdAt,createdBy,modifiedAt,modifiedBy
+24283238-b4af-4f1b-8e78-245061ffbe12,title-24283238,6959122e-c17a-467c-89fd-d66a274bf8c4,genre-24283238,2010-08-07,25,1193989.21,2014-05-15T00:00:00.000Z,createdBy.egh2e@example.org,2002-11-01T00:00:00.000Z,modifiedBy.egh2e@example.org
+24283239-f7d1-4ab1-80ca-e4f2d279491b,title-24283239,6959122e-c17a-467c-89fd-d66a274bf8c4,genre-24283239,2005-04-16,34,9204641.22,2005-04-13T00:00:00.000Z,createdBy.egh2f@example.net,2018-11-07T00:00:00.000Z,modifiedBy.egh2f@example.net
+24283240-205d-489d-b1d4-e961dab75809,title-24283240,6959122e-c17a-467c-89fd-d66a274bf8c4,genre-24283240,2006-09-18,91,373614.67,2007-08-15T00:00:00.000Z,createdBy.egh2g@example.net,2021-05-10T00:00:00.000Z,modifiedBy.egh2g@example.org
+24283241-1d74-40e1-91de-c144fde94843,title-24283241,6959122e-c17a-467c-89fd-d66a274bf8c4,genre-24283241,2001-02-09,85,8313502.58,2014-09-11T00:00:00.000Z,createdBy.egh2h@example.net,2010-04-15T00:00:00.000Z,modifiedBy.egh2h@example.org
+24283242-d59c-4eda-ad72-7422c6365644,title-24283242,6959122e-c17a-467c-89fd-d66a274bf8c4,genre-24283242,2001-10-03,61,9541922.32,2003-12-22T00:00:00.000Z,createdBy.egh2i@example.org,2006-10-10T00:00:00.000Z,modifiedBy.egh2i@example.net
